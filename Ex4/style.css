@@ -1,0 +1,41 @@
+.input{
+    font-family: monospace;
+    color: rgb(96, 95, 160);
+    text-transform: uppercase;
+    font-size: 1.5rem;   
+    
+}
+#city, #lname, #fname{
+    background-color: gold;
+    color: blueviolet;
+    
+}
+#city{
+margin-left: 15px;
+}
+#lname{
+margin-left: 45px;
+}
+#namebutton:hover{
+    color: blueviolet;
+    background-color: black;
+   
+}
+#namebutton{
+    margin-top: 25px;
+}
+.form{
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 5%;
+}
+html{
+    background-color:lightseagreen;
+    margin: auto;
+    padding: auto;
+}
+h1{
+    font-family: monospace;
+    font-size: 2rem;
+    text-align: center;
+}
